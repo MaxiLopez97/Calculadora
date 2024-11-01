@@ -1,11 +1,11 @@
 
-package sumador;
+package Calculadora;
 
 /**
  *
  * @author Maxi
  */
-public class Sumador {
+public class Calculadora {
 
     /**
      * @param args the command line arguments
